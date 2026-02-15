@@ -12,5 +12,5 @@ while(num<20){
     console.log(num);
     sum = sum+num;
     console.log("sum",sum);
-    num ++1 ;
+    num ++ ;
 }
