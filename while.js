@@ -14,3 +14,24 @@ while(num<20){
     console.log("sum",sum);
     num ++ ;
 }
+
+
+// even number----jor sonkha
+
+let number = 0;
+while (number <=10){
+    console.log(number);
+    number++
+
+    if(number%2===0){
+        console.log('even mumber',number);
+    }
+}
+
+// decremental ---  boro theke choto
+
+let n = 10;
+while (n>= 0){
+    console.log(n);
+    n--;
+}
