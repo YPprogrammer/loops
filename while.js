@@ -6,7 +6,7 @@ while (num < 5){
 
 // sum
 
-let num = 1;
+var num = 1;
 let sum = 0;
 while(num<20){
     console.log(num);
